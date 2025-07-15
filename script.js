@@ -13,7 +13,7 @@ const windSpeed = document.getElementById('wind-speed');
 const pressure = document.getElementById('pressure');
 
 // API Configuration
-const API_KEY = '6cfef1a6402065148363523795657acd'; // Replace with your actual API key
+const API_KEY = 'Your_API_Key'; // Replace with your actual API key
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Initialize the app
